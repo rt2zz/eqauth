@@ -1,0 +1,11 @@
+{
+  "name": "eqauth",
+  "version": "0.0.0",
+  "description": "",
+  "main": "extension.js",
+  "dependencies": {
+    "lodash": "~2.4.0"
+  },
+  "author": "Zack Story <zstory@ucla.edu>",
+  "license": "ISC"
+}
